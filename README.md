@@ -24,3 +24,11 @@ provide bar chart to analyse and answer how weather conditions affect the severi
 
 3. "Time" view page
 provide bar chart and line chart to analyse and answer how traffic accidents are distributed in the time dimension.
+
+
+![navigation_bar](https://user-images.githubusercontent.com/54008998/92348762-9c252800-f106-11ea-9f67-3ec5128278ff.jpg)
+
+![map](https://user-images.githubusercontent.com/54008998/92348787-ae9f6180-f106-11ea-9042-2003f13b80bd.jpg)
+
+![pie_chart](https://user-images.githubusercontent.com/54008998/92349043-849a6f00-f107-11ea-9055-33302852a53b.jpg) ![bar_chart](https://user-images.githubusercontent.com/54008998/92349049-86fcc900-f107-11ea-8486-b632d1b4ef2c.jpg)
+
